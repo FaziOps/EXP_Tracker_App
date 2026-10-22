@@ -3,8 +3,6 @@
 > A cross-platform personal finance manager built with **Flutter** and **Material 3**, featuring dynamic bar chart analytics, adaptive layouts, and seamless Light/Dark theme support.
 
 ---
-
-
 ## 📸 Screenshots
 
 | Light Theme | Dark Theme / Landscape | Input Modal |
